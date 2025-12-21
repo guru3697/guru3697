@@ -8,10 +8,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,ai,pytorch,opencv,git,aws,html,css,django,matlab)]
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://img.shields.io/badge/GitHub-@guru3697-black?style=for-the-badge&logo=github)](https://github.com/guru3697)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217)
+[![GitHub](https://img.shields.io/badge/GitHub-@guru3697-black?style=for-the-badge&logo=github)](https://github.com/guru3697)
 [![Website](https://img.shields.io/badge/Website-Portfolio-gray?style=for-the-badge&logo=github)](https://guru3697.github.io/Portfolio/)
-[![Mail](https://skillicons.dev/icons?i=gmail)](https://img.shields.io/badge/Email-guruvenkat99%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:guruvenkat99@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-guruvenkat99%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:guruvenkat99@gmail.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=guru3697&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=guru3697&theme=highcontrast&hide_border=true)<br/>
