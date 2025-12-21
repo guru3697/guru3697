@@ -9,6 +9,7 @@
 <p>
   My Skills
 </p>
+
 ![My Skills](https://skillicons.dev/icons?i=py,mysql,ai,pytorch,opencv,git,aws,html,css,django,matlab)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217)
