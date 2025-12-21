@@ -26,6 +26,10 @@
 [![Website](https://img.shields.io/badge/Website-Portfolio-gray?style=for-the-badge&logo=github)](https://guru3697.github.io/Portfolio/)
 [![Mail](https://img.shields.io/badge/Email-guruvenkat99%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:guruvenkat99@gmail.com)
 
+<h1>
+  My Github Stats :
+</h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=guru3697&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=guru3697&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guru3697&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
