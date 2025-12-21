@@ -11,13 +11,16 @@
 </h1>
 
 ![My Skills](https://skillicons.dev/icons?i=py,mysql,ai,pytorch,opencv,git,aws,html,css,django,matlab)
-[![Social Media](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217)
-[![Social Media](https://skillicons.dev/icons?i=github)](https://github.com/guru3697)
-[![Social Media](https://skillicons.dev/icons?i=gmail)](mailto:guruvenkat99@gmail.com)
+
 
 <h1>
   Reach Me At :
 </h1>
+
+[![Social Media](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217)
+[![Social Media](https://skillicons.dev/icons?i=github)](https://github.com/guru3697)
+[![Social Media](https://skillicons.dev/icons?i=gmail)](mailto:guruvenkat99@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217)
 [![GitHub](https://img.shields.io/badge/GitHub-@guru3697-black?style=for-the-badge&logo=github)](https://github.com/guru3697)
 [![Website](https://img.shields.io/badge/Website-Portfolio-gray?style=for-the-badge&logo=github)](https://guru3697.github.io/Portfolio/)
