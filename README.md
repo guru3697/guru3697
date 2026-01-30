@@ -28,7 +28,7 @@
 <h1>
   My Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
-
+<br>
 <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;">
 <img src="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;">
 <img src="https://camo.githubusercontent.com/7978105e0c50b07ecec2ec899e32c98c1dff1781c952a08790db2ba6c307f298/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/django-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;">
@@ -83,4 +83,4 @@
 			<img alt="Guru's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=guru3697&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 </div>
-<h1> Thank You!!! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> </h1>
+<h1 align="center"> Thank You!!! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> </h1>
