@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+;Problem+Solver&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+;Machine+Learning+Enthusiast+;Problem+Solver&center=true&width=500&height=50"></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=16FB19D7&multiline=true&repeat=false&width=1000&height=700&lines=root%40gurunadh-kothuru%24+whoami;I'm+Gurunadh%2C+an+Aspiring+AI+Engineer+specializing+in+ML%2C+DL%2C+NLP%2C+and+Data+Science.;%20;root%40gurunadh-kothuru%24+skills;[Languages]+Python+%7C+SQL+%7C+HTML%2FCSS;[Frameworks+%26+Libraries]+TensorFlow+%7C+PyTorch+%7C+scikit-learn+%7C+NumPy;[Frameworks+%26+Libraries]+Pandas+%7C+Matplotlib+%7C+OpenCV+%7C+NLTK+%7C+Django;[Tools+%26+Technologies]+MATLAB+%7C+AWS+%7C+Git+%7C+Tableau+%7C+PowerBI;[Core+CS+Concepts]+DSA+%7C+OOPs+Concepts+%7C+DBMS+Concepts;%20;root%40gurunadh-kothuru%24+projects;%E2%86%92+Image+to+Audio+for+Visually+Impaired+(Deep+Learning+%7C+NLP);%E2%86%92+Crowd+Monitoring+with+Fight+Detection+(Computer+Vision);%E2%86%92+eKart+E-commerce+Platform+(AWS+Hosted);%E2%86%92+Course+Re-Registration+System+(Django+%7C+SQL);%E2%86%92+Maze+Solving+using+Morphological+Operations+(Image+Processing);%20;root%40gurunadh-kothuru%24+interests;AI+%7C+ML+%7C+NLP+%7C+LLMs+%7C+RAG+%7C+Data+Science+%7C+Deep+Learning+%7C+Computer+Vision+%7C+RL;%20;root%40gurunadh-kothuru%24+exit;Connection+to+gurunadh-kothuru%40github.com+closed.)](https://git.io/typing-svg)
