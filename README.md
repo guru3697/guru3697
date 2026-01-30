@@ -31,7 +31,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217/)
 [![GitHub](https://img.shields.io/badge/GitHub-@guru3697-black?style=for-the-badge&logo=github)](https://github.com/guru3697)
-[![Website](https://img.icons8.com/?size=100&id=Z8sztyLEysfV&format=png&color=000000)](https://guru3697.github.io/Portfolio/)
+[![Website](https://img.icons8.com/?size=100&id=87836&format=png&color=000000-black?style=for-the-badge&logo=github)](https://guru3697.github.io/Portfolio/)
 [![Mail](https://img.shields.io/badge/Email-guruvenkat99%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:guruvenkat99@gmail.com)
 
 </p>
