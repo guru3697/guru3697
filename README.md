@@ -18,14 +18,14 @@
 
 <div align="center">
 <h1>
-  My Skills :
+  My Skills
 </h1>
 
 ![My Skills](https://skillicons.dev/icons?i=py,mysql,ai,pytorch,opencv,git,aws,html,css,django,matlab)
 
 
 <h1>
-  Reach Me At :
+  Reach Me At
 </h1>
 
 [![Social Media](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217/)
@@ -38,9 +38,8 @@
 [![Website](https://img.shields.io/badge/GitHub-@guru3697-black?style=for-the-badge&logo=github)](https://guru3697.github.io/Portfolio/)
 -->
 
-<p align="center">
 <h1>
-  My Github Stats :
+  My Github Stats
 </h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=guru3697&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -48,5 +47,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guru3697&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <br>
 <img src="https://komarev.com/ghpvc/?username=guru3697&label=Profile%20views&color=0e75b6&style=flat" alt="Guru" />
-</p>
 </div>
