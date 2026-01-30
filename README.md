@@ -1,3 +1,5 @@
+## You Can Download My Resume Here: 👉 [Gurunadh!](https://guru3697.github.io/Portfolio/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="assets/Gurunadh_Kothuru_Resume.pdf"><picture><img align="center" src="assets/resumebutton.png" width="190" height="35" ></picture></a>
+
 <p align="center">
   <a href="https://github.com/guru3697">
     <img src="assets/Gurunadh Kothuru.png" alt="Gurunadh Kothuru" width="350" />
