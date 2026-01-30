@@ -5,6 +5,7 @@
   </a>
 </p>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Hi,+I'm+Gurunadh+Kothuru" alt="Typing SVG" />
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+;Machine+Learning+Enthusiast+;Problem+Solver&center=true&width=500&height=50"></a>
 </p>
 
@@ -70,7 +71,7 @@
 </div>
 
 <div align="center">
-	<summary><h2>📊 Stats and Activity</h2></summary>
+		<h2>📊 Stats and Activity</h2></summary>
 		<h3>🔥 Streak Stats</h3>
 		  <p>
 		    <a href="https://github.com/guru3697/github-readme-streak-stats">
