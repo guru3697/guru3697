@@ -87,7 +87,7 @@
 
 </div>
 
-## My Contribution Graph
+<h2 align="center"> My Contribution Graph </h2>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guru3697/guru3697/output/pacman-contribution-graph-dark.svg">
