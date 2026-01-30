@@ -25,9 +25,9 @@
 	<a href="https://github.com/guru3697"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/gurunadh-kothuru-0b3743217/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 
-<a align="center">[![Social Media](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217/)</a>
-[![Social Media](https://skillicons.dev/icons?i=github)](https://github.com/guru3697)
-[![Social Media](https://skillicons.dev/icons?i=gmail)](mailto:guruvenkat99@gmail.com)
+<a>[![Social Media](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217/)</a>
+<a>[![Social Media](https://skillicons.dev/icons?i=github)](https://github.com/guru3697)</a>
+<a>[![Social Media](https://skillicons.dev/icons?i=gmail)](mailto:guruvenkat99@gmail.com)</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217/)
 [![GitHub](https://img.shields.io/badge/GitHub-@guru3697-black?style=for-the-badge&logo=github)](https://github.com/guru3697)
