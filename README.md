@@ -1,7 +1,7 @@
 <b><h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Gurunadh Kothuru</h3></b>
 <p align="center">
   <a href="https://github.com/guru3697">
-    <img src="https://raw.githubusercontent.com/guru3697/guru3697/cd936c06dde63556eb4bdc165f2782d7c7820ef1/Gurunadh%20Kothuru.png" alt="Gurunadh Kothuru" width="350" />
+    <img src="assets/Gurunadh Kothuru.png" alt="Gurunadh Kothuru" width="350" />
   </a>
 </p>
 <p align="center">
@@ -15,7 +15,11 @@
 	<a href="https://guru3697.github.io/Portfolio/"><img src="https://img.icons8.com/bubbles/50/000000/test-account.png" alt="Portfolio"/></a>
 </p>
 
+<img src="assests/borderseperator.gif">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=16FB19D7&multiline=true&repeat=false&width=1000&height=700&lines=root%40gurunadh-kothuru%24+whoami;I'm+Gurunadh%2C+an+Aspiring+AI+Engineer+specializing+in+ML%2C+DL%2C+NLP%2C+and+Data+Science.;%20;root%40gurunadh-kothuru%24+skills;[Languages]+Python+%7C+SQL+%7C+HTML%2FCSS;[Frameworks+%26+Libraries]+TensorFlow+%7C+PyTorch+%7C+scikit-learn+%7C+NumPy;[Frameworks+%26+Libraries]+Pandas+%7C+Matplotlib+%7C+OpenCV+%7C+NLTK+%7C+Django;[Tools+%26+Technologies]+MATLAB+%7C+AWS+%7C+Git+%7C+Tableau+%7C+PowerBI;[Core+CS+Concepts]+DSA+%7C+OOPs+Concepts+%7C+DBMS+Concepts;%20;root%40gurunadh-kothuru%24+projects;%E2%86%92+Image+to+Audio+for+Visually+Impaired+(Deep+Learning+%7C+NLP);%E2%86%92+Crowd+Monitoring+with+Fight+Detection+(Computer+Vision);%E2%86%92+eKart+E-commerce+Platform+(AWS+Hosted);%E2%86%92+Course+Re-Registration+System+(Django+%7C+SQL);%E2%86%92+Maze+Solving+using+Morphological+Operations+(Image+Processing);%20;root%40gurunadh-kothuru%24+interests;AI+%7C+ML+%7C+NLP+%7C+LLMs+%7C+RAG+%7C+Data+Science+%7C+Deep+Learning+%7C+Computer+Vision+%7C+RL;%20;root%40gurunadh-kothuru%24+exit;Connection+to+gurunadh-kothuru%40github.com+closed.)](https://git.io/typing-svg)
+
+<img src="assests/borderseperator.gif">
 
 <div align="center">
 <h1>
@@ -27,7 +31,7 @@
 <a href="https://github.com/search?q=user%3Aishandutta2007+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Aishandutta2007+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 
-
+<img src="assests/borderseperator.gif">
 
 <h1>
   Reach Me At
@@ -42,6 +46,8 @@
 [![Mail](https://img.shields.io/badge/Email-guruvenkat99%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:guruvenkat99@gmail.com)
 [![Website](https://img.shields.io/badge/GitHub-@guru3697-black?style=for-the-badge&logo=github)](https://guru3697.github.io/Portfolio/)
 -->
+
+<img src="assests/borderseperator.gif">
 
 <h1>
   My Github Stats
