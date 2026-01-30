@@ -31,7 +31,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217/)
 [![GitHub](https://img.shields.io/badge/GitHub-@guru3697-black?style=for-the-badge&logo=github)](https://github.com/guru3697)
-[![Website](https://img.shields.io/badge/Website-Portfolio-gray?style=for-the-badge&logo=github)](https://guru3697.github.io/Portfolio/)
+[![Website](https://icons8.com/icon/Z8sztyLEysfV/personal-website)](https://guru3697.github.io/Portfolio/)
 [![Mail](https://img.shields.io/badge/Email-guruvenkat99%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:guruvenkat99@gmail.com)
 
 </p>
@@ -45,6 +45,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=guru3697&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guru3697&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <br>
-<img src="https://komarev.com/ghpvc/?username=guru3697&label=Profile%20views&color=0e75b6&style=flat" alt="aditya" />
+<img src="https://komarev.com/ghpvc/?username=guru3697&label=Profile%20views&color=0e75b6&style=flat" alt="Guru" />
 </p>
 
