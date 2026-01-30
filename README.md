@@ -1,3 +1,4 @@
+<b><h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Gurunadh Kothuru</h3></b>
 <p align="center">
   <a href="https://github.com/guru3697">
     <img src="https://raw.githubusercontent.com/guru3697/guru3697/cd936c06dde63556eb4bdc165f2782d7c7820ef1/Gurunadh%20Kothuru.png" alt="Gurunadh Kothuru" width="350" />
@@ -22,6 +23,10 @@
 </h1>
 
 ![My Skills](https://skillicons.dev/icons?i=py,mysql,ai,pytorch,opencv,git,aws,html,css,django,matlab)
+<a href="https://github.com/search?q=user%3Aishandutta2007+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aishandutta2007+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aishandutta2007+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+
 
 
 <h1>
