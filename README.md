@@ -28,13 +28,14 @@
   My Skills
 </h1>
 
-![My Skills](https://skillicons.dev/icons?i=py,mysql,ai,pytorch,opencv,git,aws,html,css,django,matlab)
 <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;">
 <img src="https://camo.githubusercontent.com/7978105e0c50b07ecec2ec899e32c98c1dff1781c952a08790db2ba6c307f298/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/django-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;">
 <img src="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;">
-<img src="https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390dfed4e602559d459e1ac3978c22f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="48" height="48" alt="HTML5" data-canonical-src="https://skillicons.dev/icons?i=html" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6335b071db669635340784ce610ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="48" height="48" alt="css" data-canonical-src="https://skillicons.dev/icons?i=css" style="max-width: 100%; height: auto; max-height: 48px;">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7575696d9955b68522293ed8409d041e78dc26dd51add99b5a5d9aad0747e11e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/7575696d9955b68522293ed8409d041e78dc26dd51add99b5a5d9aad0747e11e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/aws-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+<img src="https://camo.githubusercontent.com/16b52621932a556fbac9ae4101250a283e6cddf0b2b7ed1a218a2d4d95cd356b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;">
+<img src="https://camo.githubusercontent.com/1e321c65f17c033c981549fa030b2f9df52d03f3a536e79d91d4b6676642ce40/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" width="48" height="48" alt="VsCode" data-canonical-src="https://skillicons.dev/icons?i=vscode" style="max-width: 100%; height: auto; max-height: 48px;">
+
+![My Skills](https://skillicons.dev/icons?i=ai,pytorch,opencv,git,html,css,matlab)
 
 
 <br>
@@ -67,3 +68,4 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=guru3697&label=Profile%20views&color=0e75b6&style=flat" alt="Guru" />
 </div>
+<img src="https://raw.githubusercontent.com/guru3697/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
