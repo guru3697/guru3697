@@ -60,7 +60,7 @@
 <img src="assets/borderseperator.gif">
 
 <h1>
-  My Github Stats
+  <img align="center" alt="Folder" width="42px" src="assets/chart-gif.gif" /> My Github Stats
 </h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=guru3697&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -71,7 +71,7 @@
 </div>
 
 <div align="center">
-		<h2>📊 Stats and Activity</h2></summary>
+		<h2>Stats and Activity</h2></summary>
 		<h3>🔥 Streak Stats</h3>
 		  <p>
 		    <a href="https://github.com/guru3697/github-readme-streak-stats">
