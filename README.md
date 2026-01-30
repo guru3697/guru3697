@@ -86,10 +86,7 @@
 			<img alt="Guru's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=guru3697&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 </div>
-<h1 align="center"> Thank You!!! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> </h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/guru3697/guru3697/blob/output/github-contribution-grid-snake.svg)
+
+<h1 align="center"> Thank You!!! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> </h1>
