@@ -77,13 +77,17 @@
 		    </a>
 		  </p>
   		<h3>💻 GitHub Profile Stats</h3>
+		<img alt="Guru's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=guru3697&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+		<img alt="Guru's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=guru3697&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+		<img alt="Guru's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=guru3697&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
 		  <p>
 		    <a
 				<img alt="Guru's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=guru3697&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-				</a>
+			</a>
 			<a
 				<img alt="Guru's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=guru3697&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-				</a>
+			</a>
 			<br/>
 			<a
 				<img alt="Guru's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=guru3697&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
