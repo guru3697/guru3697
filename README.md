@@ -1,4 +1,102 @@
-<!-- ## You Can Download My Resume Here: 👉 [Gurunadh!](https://guru3697.github.io/Portfolio/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="assets/Gurunadh_Kothuru_Resume.pdf"><picture><img align="center" src="assets/resumebutton.png" width="190" height="35" ></picture></a> -->
+<p align="center">
+  <a href="https://github.com/guru3697">
+    <img src="assets/Gurunadh Kothuru.png" alt="Gurunadh Kothuru" width="350" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+;Machine+Learning+Enthusiast+;Problem+Solver&center=true&width=500&height=50">
+  </a>
+</p>
+
+<p align="center">
+	<a href="mailto:guruvenkat99@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/></a>
+	<a href="https://github.com/guru3697"><img src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/gurunadh-kothuru-0b3743217/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
+	<a href="https://guru3697.github.io/Portfolio/"><img src="https://img.icons8.com/bubbles/50/000000/test-account.png"/></a>
+</p>
+
+<br>
+
+<h1 align="center"> A little more about me... </h1>
+<img src="assets/borderseperator.gif">
+
+<h2 align="center">
+ Hi 👋, I'm <a href="https://guru3697.github.io/Portfolio/">Gurunadh Kothuru</a>
+</h2>
+
+<br>
+
+<img src="assets/borderseperator.gif">
+
+<div align="center">
+
+<h1> My Skills 🚀</h1>
+<br>
+
+<!-- ✅ FIXED SINGLE LINE ICONS -->
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60">
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60">
+  <img src="https://skillicons.dev/icons?i=vscode" width="45">
+</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ai,pytorch,opencv,git,html,css,matlab">
+
+<br>
+<img src="assets/borderseperator.gif">
+
+<h1> Reach Me At 📬</h1>
+
+<p>
+<a href="https://www.linkedin.com/in/gurunadh-kothuru-0b3743217/">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+<a href="https://github.com/guru3697">
+  <img src="https://skillicons.dev/icons?i=github">
+</a>
+<a href="mailto:guruvenkat99@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail">
+</a>
+</p>
+
+<br>
+<img src="assets/borderseperator.gif">
+
+<h1> My Github Stats 📊</h1>
+
+<img src="https://github-readme-stats.vercel.app/api?username=guru3697&theme=highcontrast&hide_border=true"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guru3697&theme=highcontrast&hide_border=true"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guru3697&theme=highcontrast&layout=compact&hide_border=true"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=guru3697&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</div>
+
+---
+
+<h2 align="center"> My Contribution Graph </h2>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guru3697/guru3697/output/pacman-contribution-graph-dark.svg">
+    <img src="https://raw.githubusercontent.com/guru3697/guru3697/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<h1 align="center"> Thank You!!! 🤝 </h1>
+
+<!-- ## You Can Download My Resume Here: 👉 [Gurunadh!](https://guru3697.github.io/Portfolio/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="assets/Gurunadh_Kothuru_Resume.pdf"><picture><img align="center" src="assets/resumebutton.png" width="190" height="35" ></picture></a>
 
 <p align="center">
   <a href="https://github.com/guru3697">
@@ -6,7 +104,7 @@
   </a>
 </p>
 <p align="center">
-  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" height="75px"> <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Hi,+I'm+Gurunadh+Kothuru" alt="Typing SVG" /> -->
+  <!- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" height="75px"> <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Hi,+I'm+Gurunadh+Kothuru" alt="Typing SVG" /> ->
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+;Machine+Learning+Enthusiast+;Problem+Solver&center=true&width=500&height=50"></a>
 </p>
 
@@ -51,12 +149,12 @@
 [![Social Media](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217/)
 [![Social Media](https://skillicons.dev/icons?i=github)](https://github.com/guru3697)
 [![Social Media](https://skillicons.dev/icons?i=gmail)](mailto:guruvenkat99@gmail.com)
-<!-- 
+<!- 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurunadh-kothuru-0b3743217/)
 [![GitHub](https://img.shields.io/badge/GitHub-@guru3697-black?style=for-the-badge&logo=github)](https://github.com/guru3697)
 [![Mail](https://img.shields.io/badge/Email-guruvenkat99%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:guruvenkat99@gmail.com)
 [![Website](https://img.shields.io/badge/GitHub-@guru3697-black?style=for-the-badge&logo=github)](https://guru3697.github.io/Portfolio/)
--->
+->
 
 <br>
 <img src="assets/borderseperator.gif">
@@ -95,4 +193,4 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guru3697/guru3697/output/pacman-contribution-graph.svg">
 </picture>
 
-<h1 align="center"> Thank You!!! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> </h1>
+<h1 align="center"> Thank You!!! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> </h1> -->
