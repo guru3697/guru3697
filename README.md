@@ -100,14 +100,6 @@
 <h1 align="center"> Thank You!!! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> </h1>
 
 <!--
-## Pac-Man
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
--->
-
 ## Breakout
 
 <picture>
@@ -129,3 +121,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guru3697/guru3697/output/puzzle-bobble-contribution-graph.svg">
   <img alt="puzzle-bobble contribution graph" src="https://raw.githubusercontent.com/guru3697/guru3697/output/puzzle-bobble-contribution-graph.svg">
 </picture>
+-->
